@@ -262,7 +262,6 @@ p {
 .social-menu ul li a {
   display: flex;
   flex-direction: column;
-  align-item: center;
   justify-content: center;
   width: 2.5rem;
   height: 2.5rem;
